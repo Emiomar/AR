@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="piano" size="1.000000 0.786133" />
+    <ImageTarget name="magicalhats" size="1.000000 1.504202" />
     <ImageTarget name="Blue" size="1.000000 1.446945" />
   </Tracking>
 </QCARConfig>
