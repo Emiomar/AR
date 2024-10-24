@@ -2034,6 +2034,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1691449677}
   - component: {fileID: 1691449676}
+  - component: {fileID: 1691449678}
   m_Layer: 0
   m_Name: BDControler
   m_TagString: Untagged
@@ -2072,6 +2073,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1691449678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1691449675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb937a84c2d028a419009d0235953c0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cardNameInput: {fileID: 0}
+  attackInput: {fileID: 0}
+  defenseInput: {fileID: 0}
+  spellTrapInput: {fileID: 0}
+  isMonsterToggle: {fileID: 0}
+  yugiOHCards: {fileID: 0}
+  isMonster: 1
+  cardName: 
+  attack: 0
+  defense: 0
+  spellTrap: 
 --- !u!1 &2066939454
 GameObject:
   m_ObjectHideFlags: 0

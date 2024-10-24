@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Alumnado\\Documents\\ProyectorVR\\Proyectos\\AR\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA328BBD-B798-4854-C54F-D8119A2987F2}|Assembly-CSharp.csproj|c:\\users\\alumnado\\documents\\proyectorvr\\proyectos\\ar\\assets\\scripts\\carddisplayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA328BBD-B798-4854-C54F-D8119A2987F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carddisplayar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA328BBD-B798-4854-C54F-D8119A2987F2}|Assembly-CSharp.csproj|c:\\users\\alumnado\\documents\\proyectorvr\\proyectos\\ar\\assets\\scripts\\bdyugioh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA328BBD-B798-4854-C54F-D8119A2987F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bdyugioh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA328BBD-B798-4854-C54F-D8119A2987F2}|Assembly-CSharp.csproj|c:\\users\\alumnado\\documents\\proyectorvr\\proyectos\\ar\\assets\\scripts\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA328BBD-B798-4854-C54F-D8119A2987F2}|Assembly-CSharp.csproj|C:\\Users\\Alumnado\\Documents\\ProyectorVR\\Proyectos\\AR\\assets\\scripts\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA328BBD-B798-4854-C54F-D8119A2987F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CardDisplayAR.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnado\\Documents\\ProyectorVR\\Proyectos\\AR\\Assets\\Scripts\\CardDisplayAR.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardDisplayAR.cs",
+              "ToolTip": "C:\\Users\\Alumnado\\Documents\\ProyectorVR\\Proyectos\\AR\\Assets\\Scripts\\CardDisplayAR.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardDisplayAR.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:22:55.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BDYugiOH.cs",
               "DocumentMoniker": "C:\\Users\\Alumnado\\Documents\\ProyectorVR\\Proyectos\\AR\\Assets\\Scripts\\BDYugiOH.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BDYugiOH.cs",
               "ToolTip": "C:\\Users\\Alumnado\\Documents\\ProyectorVR\\Proyectos\\AR\\Assets\\Scripts\\BDYugiOH.cs",
               "RelativeToolTip": "Assets\\Scripts\\BDYugiOH.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAA0wIYAAAARAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAmwJ8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T00:38:54.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BD.cs",
               "DocumentMoniker": "C:\\Users\\Alumnado\\Documents\\ProyectorVR\\Proyectos\\AR\\Assets\\Scripts\\BD.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BD.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BD.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:54:44.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T00:54:44.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PianoAR.cs",
               "DocumentMoniker": "C:\\Users\\Alumnado\\Documents\\ProyectorVR\\Proyectos\\AR\\Assets\\PianoAR.cs",
               "RelativeDocumentMoniker": "Assets\\PianoAR.cs",

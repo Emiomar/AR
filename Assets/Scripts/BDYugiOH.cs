@@ -116,7 +116,7 @@ public class BDYugiOH : MonoBehaviour
     }
 
 
-    public void LodCardData(string cardNameAR, TMP_Text textMesh)
+    public void LoadCardData(string cardNameAR, TMP_Text textMesh)
     {
         reference.Child("Cartas").Child(cardNameAR).GetValueAsync().ContinueWithOnMainThread(task =>
         {
