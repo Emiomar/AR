@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "522760282682",
+    "firebase_url": "https://p320251-4d1fd-default-rtdb.firebaseio.com",
+    "project_id": "p320251-4d1fd",
+    "storage_bucket": "p320251-4d1fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522760282682:android:e33a109b2e242a8bf70b03",
+        "android_client_info": {
+          "package_name": "com.penguin.AR2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAapciQoI_BFaSejCwvpXhD4hm9oae1mGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
